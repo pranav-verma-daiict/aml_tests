@@ -1,0 +1,6 @@
+#poc3
+is the basic solution of 5 banks.
+needs group keys and threshold decryptions
+
+#poc4
+both the solutions have been added(?)
