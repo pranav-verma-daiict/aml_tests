@@ -4,3 +4,6 @@ needs group keys and threshold decryptions
 
 #poc4
 both the solutions have been added(?)
+deleted this version
+
+#poc4
