@@ -7,3 +7,6 @@ both the solutions have been added(?)
 deleted this version
 
 #poc4
+basic functionalities working
+ToDo: make it serverless/fully distributed
++ assume all banks are connected.
